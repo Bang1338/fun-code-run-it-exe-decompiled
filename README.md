@@ -55,8 +55,10 @@ for ( i = 0; i <= 0xE; ++i )
 for ( int i = 0; i <= 14; i++ )
         system("start https://www.youtube.com/watch?v=oHg5SJYRHA0"); // I think this doesn't work :/
 ```
-
 * And if you don't want to get caught, use [UPX](https://upx.github.io/) or [Log0](https://github.com/Log0-git)'s nightmare: ZProtect
+
+## Run the code
+* I recommend using Dev-Cpp to run it. Or Code::Block if you want.
 
 
 ## Why?
