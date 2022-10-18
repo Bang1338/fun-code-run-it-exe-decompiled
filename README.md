@@ -9,7 +9,6 @@ fun code run it.exe Decompiled
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/language-c++-blue">
-  <img src="https://img.shields.io/github/languages/top/Bang1338/fun-code-run-it-exe-decompiled">
   <img src="https://img.shields.io/badge/using-ida-yellow">
 </p>
 <h3 align="center">
