@@ -36,7 +36,7 @@ A trollware by my friend, but I decompiled it
 * Ask for input: ```"You want to play the game?[yes = 1, no = 0]"```
 * Even you choose 1, 0 or something else, watch this: ```n = 1;```
 * ```"Glad you said yes"``` you know :)
-* Open 14 times rick roll link, by using ```ShellExecute``` from ```windows.h```
+* Open 14 times [rick roll link](https://www.youtube.com/watch?v=oHg5SJYRHA0), by using ```ShellExecute``` from ```windows.h```
 ```cpp
 for ( i = 0; i <= 14; i++ )
         ShellExecute(NULL, "open", "https://www.youtube.com/watch?v=oHg5SJYRHA0", NULL, NULL, SW_SHOWNORMAL);
